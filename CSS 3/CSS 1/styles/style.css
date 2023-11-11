@@ -1,0 +1,55 @@
+nav {
+    text-align: center;
+    text-decoration: none;
+    
+}
+body {background-color: aqua;
+    /* color: rgb(219, 219, 30); */
+  background-image: url("https://source.unsplash.com/1920x1080?nature");
+  background-attachment: fixed;
+}
+
+   p.dotted { border-style: dotted;}
+    p.dashed { border-style: dashed;}
+    p.solid { border-style: solid;}
+    p.double  { border-style: double;}
+    p.groove { border-style: groove;}
+    p.ridge { border-style: ridge;}
+    p.inset { border-style: inset;}
+    p.outset { border-style: outset;}
+    p.none { border-style: none;}
+    p.hidden { border-style: hidden;}
+    p.mix { border-style: dotted dashed solid double;}
+
+
+
+    p.solid1{
+        border-style: solid;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+        
+        
+        p.solid2{
+            border-style: solid;
+            width: 200px;
+            height: 200px;
+            border-radius: 100%;
+        }        
+            
+            
+            p.solid3{
+                border-style: solid;
+                width: 300px;
+                height: 300px;
+                border-radius: 150%;
+            }
+
+
+                p.solid4{
+                    border-style: solid;
+                    width: 400px;
+                    height: 400px;
+                    border-radius: 200%;
+                }

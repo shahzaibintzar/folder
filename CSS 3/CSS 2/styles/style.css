@@ -1,0 +1,149 @@
+body{
+    background-color: white;
+}
+header nav {text-align: center;
+     
+}
+.box {
+    height: 50px;
+    border: 1px solid green; 
+    
+}
+.box1 {
+    margin: 15px;
+    padding: 5px;
+
+
+}
+.box2{
+margin-bottom: 30px;
+}
+.heading h1 {
+    background-color: green;
+
+}
+ #heading  {
+    background-color: cyan;
+}
+#heading p{
+    background-color: royalblue;
+}
+h1 {
+    text-align: center;
+}
+
+
+    .A {
+        background-color: green;
+      }
+      
+      div.first {
+        opacity: 0.1;
+      }
+      
+      div.second {
+        opacity: 0.3;
+      }
+      
+      div.third {
+        opacity: 0.6;
+      }
+
+
+      /* div {
+        background: rgb(0, 128, 0);
+      }
+      
+      div.first {
+        background: rgba(0, 128, 0, 0.1);
+      }
+      
+      div.second {
+        background: rgba(0, 128, 0, 0.3);
+      }
+      
+      div.third {
+        background: rgba(0, 128, 0, 0.6);
+      }
+ */
+
+.transparent h1 {
+background-color:green ;
+}
+
+
+
+
+
+    p.ex1 {
+        border: 1px solid black;
+        outline-style: solid;
+        outline-color: red;
+        outline-width: thin;
+      }
+      
+      p.ex2 {
+        border: 1px solid black;
+        outline-style: solid;
+        outline-color: red;
+        outline-width: medium;
+      }
+      
+      p.ex3 {
+        border: 1px solid black;
+        outline-style: solid;
+        outline-color: red;
+        outline-width: thick;
+      }
+      
+      p.ex4 {
+        border: 1px solid black;
+        outline-style: solid;
+        outline-color: red;
+        outline-width: 4px;
+      }
+
+
+
+
+
+
+      p.ex6 {
+        border: 2px solid black;
+        outline-style: solid;
+        outline-color: red;
+      }
+      
+      p.ex7 {
+        border: 2px solid black;
+        outline-style: dotted;
+        outline-color: blue;
+      }
+      
+      p.ex8 {
+        border: 2px solid black;
+        outline-style: outset;
+        outline-color: grey;
+      }
+
+
+
+      p.ex9 {outline: dashed;}
+      p.ex10 {outline: dotted red;}
+      p.ex11 {outline: 5px solid yellow;}
+      p.ex12 {outline: thick ridge pink;}
+
+
+.offset p{
+     
+        margin: 30px;
+        background:yellow;
+        border: 1px solid black;
+        outline: 1px solid red;
+        outline-offset: 15px;
+      
+}
+
+footer p{
+    text-align: center;
+}
